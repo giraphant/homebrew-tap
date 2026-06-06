@@ -1,6 +1,6 @@
 cask "veduta" do
-  version "0.1.1"
-  sha256 "f5712acbf5738cc50e4651060caee6bc36d2a1c8d7b508ef0a0fadf25a452dfa"
+  version "0.1.2"
+  sha256 "6368a2059a509de3f64f46927f754cd2b4e230a8b6413344bd821151ecd53b93"
 
   url "https://github.com/giraphant/veduta/releases/download/v#{version}/Veduta.dmg"
   name "Veduta"
