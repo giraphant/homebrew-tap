@@ -1,6 +1,6 @@
 cask "marple" do
-  version "0.2.0"
-  sha256 "f26018cbc71ef7d63ffd7c0c1928f65e8fc5b4b8a4f7deaf30a0066b5ffd8702"
+  version "0.2.1"
+  sha256 "7543c46570077f73addc9897d7eb10918ed3f44f340c5d59bb85d4d7aaba62b1"
 
   url "https://github.com/giraphant/marple/releases/download/v0.1.0/Marple.dmg"
   name "Marple"
