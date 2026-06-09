@@ -7,7 +7,7 @@ cask "marple" do
   desc "Native macOS reader for your knowledge vault"
   homepage "https://github.com/giraphant/marple"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "Marple.app"
   binary "#{appdir}/Marple.app/Contents/MacOS/marple-cli"
