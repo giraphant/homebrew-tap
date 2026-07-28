@@ -1,6 +1,6 @@
 cask "beacon" do
-  version "0.0.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  version "1.0.0"
+  sha256 "2f6c1e9cd11ef9112e9b443e2ac4e2991e7b0eff65b1233f869028f3f8cbc46b"
 
   url "https://github.com/giraphant/beacon/releases/download/v#{version}/Beacon.dmg"
   name "Beacon"
