@@ -7,7 +7,7 @@ cask "dousha" do
   desc "Menu-bar push-to-talk dictation app"
   homepage "https://github.com/giraphant/dousha"
 
-  depends_on macos: :sonoma
+  depends_on macos: :tahoe
 
   app "Dousha.app"
 
