@@ -1,6 +1,6 @@
 cask "dousha" do
-  version "0.5.0"
-  sha256 "6dc20926dc65d7f2c9c0fc8eb33f0fcc97f23494d6542107aed659644338bc38"
+  version "0.5.1"
+  sha256 "90d91e378db1dfc6a446a7ca96e269750dfaa17345b25d2a44f4a89e12389cf9"
 
   url "https://github.com/giraphant/dousha/releases/download/v#{version}/Dousha.dmg"
   name "Dousha"
